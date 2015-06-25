@@ -1,0 +1,12 @@
+Package: radar
+Type: Package
+Title: Fundamental Formulas for Radar
+Version: 1.0.0
+Encoding: UTF-8
+Authors@R: c(person(given = "Jose'", family = "Gama", role = c("aut","cre"),email = "rxprtgama@gmail.com"),
+    person(given = "Nick", family = "Guy", role = c("aut")))
+Description: Fundamental formulas for Radar, for attenuation, range, velocity,
+    effectiveness, power, scatter, doppler, geometry, radar equations, etc.
+    Based on Nick Guy's Python package PyRadarMet
+License: GPL (>= 3)
+Depends: R (>= 2.7.0)
